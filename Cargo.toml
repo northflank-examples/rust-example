@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Northflank Team"]
 
 [dependencies]
-tide = "0.7.0"
+tide = "0.16.0"
 async-h1 = "2.3.2"
