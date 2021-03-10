@@ -2,7 +2,6 @@
 name = "rust-starter"
 version = "0.1.0"
 authors = ["Northflank Team"]
-edition = "2021"
 
 [dependencies]
 tide = "0.7.0"
