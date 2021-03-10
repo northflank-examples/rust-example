@@ -5,3 +5,4 @@ authors = ["Northflank Team"]
 
 [dependencies]
 tide = "0.7.0"
+async_h1 = "2.3.2"
