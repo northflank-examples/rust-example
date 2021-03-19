@@ -1,0 +1,8 @@
+[package]
+name = "rust-docker-web"
+version = "0.1.0"
+authors = ["Northflank.com"]
+edition = "2018"
+
+[dependencies.nickel]
+version = "*"
