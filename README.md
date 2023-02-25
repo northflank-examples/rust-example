@@ -1,4 +1,4 @@
-# Rust Nickel Web App Example
+# Rust Nickel web app template
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.northflank.com">
     <img alt="Northflank" align="right" src="/media/logo.svg" width="35%" />
@@ -6,10 +6,13 @@
 
 Deploy this Rust Nickel app easily with [Northflank](https://www.northflank.com):
 
-- Clone this repository
-- Select the repository in Northflank when creating a new service
-- Expose port 6767
+- [Create a service from template on Northflank](https://app.northflank.com/s/project/create/template-service)
+- Select the Rust Nickel.rs template
 - Wait for the app to build and visit the newly assigned URL. That's it!
+
+You can now clone your repository locally and start making changes. Push your changes to automatically build and deploy the updated application!
+
+[Learn more about using Northflank](https://northflank.com/docs/).
 
 ### Live Demo
 [https://example--rust-nickel--examples--nort-kcwl.code.run/](https://example--rust-nickel--examples--nort-kcwl.code.run/)
