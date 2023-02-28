@@ -1,0 +1,8 @@
+.dockerignore
+Dockerfile
+
+.idea
+
+README.md
+
+**/target/
